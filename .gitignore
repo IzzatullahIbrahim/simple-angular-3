@@ -1,0 +1,4 @@
+#Ignore the file in these folder
+
+node_modules/
+public/lib/
